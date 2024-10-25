@@ -2,7 +2,7 @@ package testing
 
 import (
 	"context"
-	"encoding/json"
+	"github.com/goccy/go-json"
 	"testing"
 
 	"github.com/gophercloud/gophercloud/v2/openstack/dns/v2/recordsets"

@@ -1,7 +1,7 @@
 package oauth1
 
 import (
-	"encoding/json"
+	"github.com/goccy/go-json"
 	"net/url"
 	"time"
 

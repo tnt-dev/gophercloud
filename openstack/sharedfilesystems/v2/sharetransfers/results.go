@@ -1,7 +1,7 @@
 package sharetransfers
 
 import (
-	"encoding/json"
+	"github.com/goccy/go-json"
 	"net/url"
 	"strconv"
 	"time"

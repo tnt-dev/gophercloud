@@ -1,7 +1,7 @@
 package testing
 
 import (
-	"encoding/json"
+	"github.com/goccy/go-json"
 	"testing"
 
 	"github.com/gophercloud/gophercloud/v2/openstack/baremetalintrospection/v1/introspection"

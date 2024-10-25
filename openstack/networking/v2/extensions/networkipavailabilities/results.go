@@ -1,7 +1,7 @@
 package networkipavailabilities
 
 import (
-	"encoding/json"
+	"github.com/goccy/go-json"
 	"math/big"
 
 	"github.com/gophercloud/gophercloud/v2"

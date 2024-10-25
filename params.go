@@ -1,8 +1,8 @@
 package gophercloud
 
 import (
-	"encoding/json"
 	"fmt"
+	"github.com/goccy/go-json"
 	"net/url"
 	"reflect"
 	"strconv"

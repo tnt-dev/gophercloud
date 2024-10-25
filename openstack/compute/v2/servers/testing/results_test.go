@@ -3,7 +3,7 @@ package testing
 import (
 	"context"
 	"crypto/rsa"
-	"encoding/json"
+	"github.com/goccy/go-json"
 	"fmt"
 	"testing"
 

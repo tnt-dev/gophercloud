@@ -1,7 +1,7 @@
 package schedulerstats
 
 import (
-	"encoding/json"
+	"github.com/goccy/go-json"
 	"math"
 
 	"github.com/gophercloud/gophercloud/v2/pagination"

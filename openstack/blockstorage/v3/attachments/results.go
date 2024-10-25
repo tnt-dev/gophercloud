@@ -3,7 +3,7 @@
 package attachments
 
 import (
-	"encoding/json"
+	"github.com/goccy/go-json"
 	"time"
 
 	"github.com/gophercloud/gophercloud/v2"

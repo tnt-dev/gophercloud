@@ -1,7 +1,7 @@
 package flavors
 
 import (
-	"encoding/json"
+	"github.com/goccy/go-json"
 	"strconv"
 
 	"github.com/gophercloud/gophercloud/v2"

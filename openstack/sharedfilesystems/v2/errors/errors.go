@@ -1,7 +1,7 @@
 package errors
 
 import (
-	"encoding/json"
+	"github.com/goccy/go-json"
 	"errors"
 
 	"github.com/gophercloud/gophercloud/v2"

@@ -1,6 +1,6 @@
 package clouds
 
-import "encoding/json"
+import "github.com/goccy/go-json"
 
 // Clouds represents a collection of Cloud entries in a clouds.yaml file.
 // The format of clouds.yaml is documented at

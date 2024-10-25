@@ -1,7 +1,7 @@
 package quotasets
 
 import (
-	"encoding/json"
+	"github.com/goccy/go-json"
 
 	"github.com/gophercloud/gophercloud/v2"
 	"github.com/gophercloud/gophercloud/v2/pagination"
